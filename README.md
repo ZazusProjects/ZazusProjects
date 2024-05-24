@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Isaiah.
-- 👀 My primary interests are in machine learning, econometrics, and text analysis for research. 
+- 👀 My primary interests are in machine learning, econometrics, and text analysis for accounting, systems, and business research. 
 - 🌱 I’m currently working on growing my skills in python, R, and SQL.
