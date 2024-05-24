@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ZazusProjects
-- 👀 I’m interested in data engineering, data architecture, Microsoft Azure, Snowflake and python
-- 🌱 I’m currently learning python and preparing for the Azure data engineering associate exam
-- 💞️ I’m looking to collaborate on learning more about software development and data through hands-on projects
+- 👋 Hi, I’m Isaiah.
+- 👀 My primary interests are in machine learning, econometrics, and text analysis for research. 
+- 🌱 I’m currently working on growing my skills in python, R, and SQL.
